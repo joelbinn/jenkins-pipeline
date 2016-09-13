@@ -37,6 +37,5 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/joelbinn/jenkins-pipeline.git/</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
+    </scm>
 </project>
