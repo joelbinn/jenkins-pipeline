@@ -36,6 +36,6 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/joelbinn/jenkins-pipeline.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/joelbinn/jenkins-pipeline.git/</developerConnection>
     </scm>
 </project>
